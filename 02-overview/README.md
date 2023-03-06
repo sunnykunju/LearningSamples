@@ -20,4 +20,3 @@ AWS Terraform provider documentation: https://registry.terraform.io/providers/ha
 2) `terraform init`
 3) `terraform plan`
 4) `terraform apply`
-5) `terraform destroy`
